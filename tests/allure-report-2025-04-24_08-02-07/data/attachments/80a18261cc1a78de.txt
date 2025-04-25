@@ -1,0 +1,7 @@
+no alert present
+no alert present
+['', '29.99']
+['', '29.99']
+['Tax: ', '2.40']
+['Total: ', '32.39']
+2.40 29.99 32.39
